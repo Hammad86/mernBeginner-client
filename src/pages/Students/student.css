@@ -1,0 +1,10 @@
+.student-card{
+    width: 500px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.select{
+    width: 200px;
+}
